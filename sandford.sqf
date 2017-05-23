@@ -302,7 +302,7 @@ if (true) then
   _this = createVehicle ["FlagCarrierRedCross_EP1", [9920.3496, 5435.9946, 3.0514462], [], 0, "CAN_COLLIDE"];
   _vehicle_89 = _this;
   _this setDir 6.0471778;
-  _this SetFlagTexture "graphics\slkflag.jpg";
+  //_this SetFlagTexture "graphics\slkflag.jpg";
   _this setPos [9920.3496, 5435.9946, 3.0514462];
 };
 
@@ -311,7 +311,7 @@ if (true) then
 {
   _this = createVehicle ["FlagCarrierRedCross_EP1", [9916.0801, 5417.3984, 2.8280666], [], 0, "CAN_COLLIDE"];
   _vehicle_90 = _this;
-  _this SetFlagTexture "graphics\canflag.jpg";
+  //_this SetFlagTexture "graphics\canflag.jpg";
   _this setPos [9916.0801, 5417.3984, 2.8280666];
 };
 
