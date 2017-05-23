@@ -1,0 +1,23 @@
+class Category_562 {
+	class HMMWV_M998A2_SOV_DES_EP1_DZE {	type = "trade_any_vehicle";	buy[] ={200000,"Worth"};	sell[] ={75000,"Worth"};};
+	class HMMWV_M1151_M2_CZ_DES_EP1_DZE {	type = "trade_any_vehicle";	buy[] ={216000,"Worth"};	sell[] ={100000,"Worth"};};
+	class HMMWV_M1151_M2_DES_EP1 {			type = "trade_any_vehicle";	buy[] ={216000,"Worth"};	sell[] ={100000,"Worth"};};
+	class HMMWV_M2 {						type = "trade_any_vehicle";	buy[] ={216000,"Worth"};	sell[] ={100000,"Worth"};};
+	class HMMWV_Mk19 {						type = "trade_any_vehicle";	buy[] ={300000,"Worth"};	sell[] ={125000,"Worth"};};
+	class HMMWV_Armored {					type = "trade_any_vehicle";	buy[] ={216000,"Worth"};	sell[] ={100000,"Worth"};};
+	class HMMWV_MK19_DES_EP1 {				type = "trade_any_vehicle";	buy[] ={300000,"Worth"};	sell[] ={120000,"Worth"};};
+	class HMMWV_M1151_M2_CZ_DES_EP1 {		type = "trade_any_vehicle";	buy[] ={216000,"Worth"};	sell[] ={100000,"Worth"};};
+	class LandRover_Special_CZ_EP1_DZE {	type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class LandRover_MG_TK_EP1_DZE {			type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class UAZ_MG_TK_EP1_DZE {				type = "trade_any_vehicle";	buy[] ={150000,"Worth"};	sell[] ={70000,"Worth"};};
+	class Offroad_DSHKM_TK_GUE_EP1 {		type = "trade_any_vehicle";	buy[] ={150000,"Worth"};	sell[] ={70000,"Worth"};};
+	class Offroad_DSHKM_INS {				type = "trade_any_vehicle";	buy[] ={150000,"Worth"};	sell[] ={70000,"Worth"};};
+	class Offroad_DSHKM_Gue {				type = "trade_any_vehicle";	buy[] ={150000,"Worth"};	sell[] ={70000,"Worth"};};
+	class Pickup_PK_TK_GUE_EP1 {			type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class Pickup_PK_INS {					type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class UAZ_MG_TK_EP1 {					type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class UAZ_MG_CDF {						type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class UAZ_MG_INS {						type = "trade_any_vehicle";	buy[] ={100000,"Worth"};	sell[] ={50000,"Worth"};};
+	class LandRover_MG_TK_INS_EP1 {			type = "trade_any_vehicle";	buy[] ={200000,"Worth"};	sell[] ={100000,"Worth"};};
+	class M1133_MEV_EP1 {					type = "trade_any_vehicle";	buy[] ={200000,"Worth"};	sell[] ={100000,"Worth"};};
+};	
