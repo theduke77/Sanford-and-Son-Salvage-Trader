@@ -1,8 +1,12 @@
 @echo off
-	for /r %%i in (*.hpp) do (
-		if not %%~nxi == output.txt (
-			echo %%~nxi >> output.txt
-			type "%%i" >> output.txt
-			echo. >> output.txt
-		)
-	)
+setlocal enabledelayedexpansion
+
+if exist output.txt del output.txt
+set "temp="
+for /r %%i in (*.hpp) do (
+  if "%%~nxi" NEQ "output.txt" (
+  set "temp="
+  for /f "usebackq skip=1 delims=" %%j in ("%%~i") do (
+    if "!temp!" NEQ "" Echo !temp!
+    set temp=%%j
+))) >> output.txt
